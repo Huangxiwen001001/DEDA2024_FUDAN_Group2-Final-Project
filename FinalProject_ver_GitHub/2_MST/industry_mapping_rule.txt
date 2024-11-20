@@ -1,0 +1,11 @@
+labels = {
+0: '交通运输_Bond', 1: '传媒_Bond', 2: '公用事业_Bond', 3: '农林牧渔_Bond', 4: '医药生物_Bond', 5: '商贸零售_Bond', 6: '国防军工_Bond', 7: '基础化工_Bond',
+8: '家用电器_Bond', 9: '建筑材料_Bond', 10: '建筑装饰_Bond', 11: '房地产_Bond', 12: '有色金属_Bond', 13: '机械设备_Bond', 14: '汽车_Bond', 15: '煤炭_Bond',
+16: '环保_Bond', 17: '电力设备_Bond', 18: '电子_Bond', 19: '石油石化_Bond', 20: '社会服务_Bond', 21: '纺织服饰_Bond', 22: '综合_Bond', 23: '计算机_Bond',
+24: '轻工制造_Bond', 25: '通信_Bond', 26: '钢铁_Bond', 27: '非银金融_Bond', 28: '食品饮料_Bond',
+29: '交通运输_Stock', 30: '传媒_Stock', 31: '公用事业_Stock', 32: '农林牧渔_Stock', 33: '医药生物_Stock', 34: '商贸零售_Stock', 35: '国防军工_Stock',
+36: '基础化工_Stock', 37: '家用电器_Stock', 38: '建筑材料_Stock', 39: '建筑装饰_Stock', 40: '房地产_Stock', 41: '有色金属_Stock', 42: '机械设备_Stock',
+43: '汽车_Stock', 44: '煤炭_Stock', 45: '环保_Stock', 46: '电力设备_Stock', 47: '电子_Stock', 48: '石油石化_Stock', 49: '社会服务_Stock',
+50: '纺织服饰_Stock', 51: '综合_Stock', 52: '计算机_Stock', 53: '轻工制造_Stock', 54: '通信_Stock', 55: '钢铁_Stock',
+56: '非银金融_Stock', 57: '食品饮料_Stock'
+}

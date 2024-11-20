@@ -1,0 +1,86 @@
+Spectral Clustering Results:
+Cluster 1:
+"1: Transportation"; "8: Basic Chemicals"; "12: Real Estate"; "13: Non-Ferrous Metals"; "15: Automobiles"; "16: Coal"; "17: Environmental Protection"; 
+Cluster 2:
+"7: Defense and Military"; "19: Electronics"; "24: Computers"; 
+Cluster 3:
+"4: Agriculture, Forestry, Animal Husbandry, and Fishery"; "10: Building Materials"; "25: Light Industry and Manufacturing"; "29: Food and Beverages"; 
+Cluster 4:
+"2: Media"; "6: Trade and Retail"; "18: Power Equipment"; "28: Non-Bank Financials"; 
+Cluster 5:
+"3: Utilities"; "5: Pharmaceuticals and Biotechnology"; "9: Household Appliances"; "11: Construction and Decoration"; "14: Machinery and Equipment"; "20: Petroleum and Petrochemicals"; "21: Social Services"; "22: Textiles and Apparel"; "23: Conglomerate"; "26: Telecommunications"; "27: Steel"; 
+
+Hierarchical Clustering Results:
+Cluster 1:
+"1: Transportation"; "4: Agriculture, Forestry, Animal Husbandry, and Fishery"; "5: Pharmaceuticals and Biotechnology"; "8: Basic Chemicals"; "10: Building Materials"; "12: Real Estate"; "13: Non-Ferrous Metals"; "15: Automobiles"; "16: Coal"; "17: Environmental Protection"; "25: Light Industry and Manufacturing"; "29: Food and Beverages"; 
+Cluster 2:
+"18: Power Equipment"; "28: Non-Bank Financials"; 
+Cluster 3:
+"6: Trade and Retail"; 
+Cluster 4:
+"3: Utilities"; "7: Defense and Military"; "9: Household Appliances"; "11: Construction and Decoration"; "14: Machinery and Equipment"; "19: Electronics"; "20: Petroleum and Petrochemicals"; "21: Social Services"; "22: Textiles and Apparel"; "23: Conglomerate"; "24: Computers"; "26: Telecommunications"; "27: Steel"; 
+Cluster 5:
+"2: Media"; 
+
+UMAP Dimensionality Reduction Results:
+"1: Transportation"; Position: [ 2.447891 -2.619216]
+"2: Media"; Position: [-1.0185838 -4.614343 ]
+"3: Utilities"; Position: [-2.4609067 -3.5811977]
+"4: Agriculture, Forestry, Animal Husbandry, and Fishery"; Position: [ 2.6337318 -1.337364 ]
+"5: Pharmaceuticals and Biotechnology"; Position: [ 0.9488547 -3.8309793]
+"6: Trade and Retail"; Position: [-2.525916  -1.6058457]
+"7: Defense and Military"; Position: [-2.6132936 -2.9194088]
+"8: Basic Chemicals"; Position: [ 2.664266  -3.3756373]
+"9: Household Appliances"; Position: [-2.9258761 -4.7660556]
+"10: Building Materials"; Position: [ 3.227696  -1.2565472]
+"11: Construction and Decoration"; Position: [-1.5627894 -4.866853 ]
+"12: Real Estate"; Position: [ 2.262041  -3.2819376]
+"13: Non-Ferrous Metals"; Position: [ 1.2671344 -2.719053 ]
+"14: Machinery and Equipment"; Position: [-2.3242452 -4.46478  ]
+"15: Automobiles"; Position: [ 2.9230886 -2.6174507]
+"16: Coal"; Position: [ 1.3046141 -3.5144336]
+"17: Environmental Protection"; Position: [ 2.1086133 -2.0632837]
+"18: Power Equipment"; Position: [-2.0143626 -1.5813079]
+"19: Electronics"; Position: [-1.0148422 -3.5564275]
+"20: Petroleum and Petrochemicals"; Position: [-0.67039394 -3.912081  ]
+"21: Social Services"; Position: [-1.6328965 -4.322989 ]
+"22: Textiles and Apparel"; Position: [-2.8922637 -4.1681476]
+"23: Conglomerate"; Position: [ 0.45222223 -3.3287947 ]
+"24: Computers"; Position: [-1.7820138 -3.5126252]
+"25: Light Industry and Manufacturing"; Position: [ 3.6545093 -1.735271 ]
+"26: Telecommunications"; Position: [-2.3093543 -2.5199106]
+"27: Steel"; Position: [ 0.06517677 -3.8892865 ]
+"28: Non-Bank Financials"; Position: [-1.7836035 -2.1830647]
+"29: Food and Beverages"; Position: [ 3.0852087 -1.8148876]
+
+t-SNE Dimensionality Reduction Results:
+"1: Transportation"; Position: [58.719032 30.42228 ]
+"2: Media"; Position: [-90.937454 -31.165867]
+"3: Utilities"; Position: [-30.974245 -36.465767]
+"4: Agriculture, Forestry, Animal Husbandry, and Fishery"; Position: [101.74719   10.053714]
+"5: Pharmaceuticals and Biotechnology"; Position: [-8.917506 43.671154]
+"6: Trade and Retail"; Position: [ -68.19677 -113.45946]
+"7: Defense and Military"; Position: [-36.20119 -67.797  ]
+"8: Basic Chemicals"; Position: [49.146805 12.790271]
+"9: Household Appliances"; Position: [-79.73922   17.891861]
+"10: Building Materials"; Position: [85.443   38.07629]
+"11: Construction and Decoration"; Position: [-55.252865 -33.08663 ]
+"12: Real Estate"; Position: [37.929935 36.354855]
+"13: Non-Ferrous Metals"; Position: [35.204235  -7.6914573]
+"14: Machinery and Equipment"; Position: [-41.053318   9.398464]
+"15: Automobiles"; Position: [35.692745 72.744415]
+"16: Coal"; Position: [19.999323 17.765133]
+"17: Environmental Protection"; Position: [73.48279  17.586792]
+"18: Power Equipment"; Position: [ -83.89947 -100.06637]
+"19: Electronics"; Position: [ -7.981159 -89.22433 ]
+"20: Petroleum and Petrochemicals"; Position: [ -3.7308302 -25.415022 ]
+"21: Social Services"; Position: [-36.689426 -17.037966]
+"22: Textiles and Apparel"; Position: [-59.845016  -2.361197]
+"23: Conglomerate"; Position: [ 3.409885  -0.3606745]
+"24: Computers"; Position: [ -7.318507 -58.726852]
+"25: Light Industry and Manufacturing"; Position: [107.48274  46.97557]
+"26: Telecommunications"; Position: [-55.414608 -63.62874 ]
+"27: Steel"; Position: [-10.226261  10.06931 ]
+"28: Non-Bank Financials"; Position: [-78.01273 -75.68891]
+"29: Food and Beverages"; Position: [69.40529  64.827866]
+
